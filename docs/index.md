@@ -10,9 +10,9 @@ features:
     details: 没有枯燥乏味的书本知识，从实践入手，和小伙伴们由浅入深探索二进制世界的奥秘。
 actions:
   - text: 了解更多
-    link: /intro.html
+    link: /about/
     type: primary
   - text: 查看公告
-    link: https://gate.ustillab.com/announcements/
+    link: /announcements/
     type: secondary
 ---

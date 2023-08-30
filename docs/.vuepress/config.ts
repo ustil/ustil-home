@@ -8,10 +8,6 @@ export default defineUserConfig({
   theme: defaultTheme({
     navbar: [
       {
-        text: '导航',
-        link: 'https://gate.ustillab.com',
-      },
-      {
         text: '博客',
         link: 'https://blog.ustillab.com',
       },
