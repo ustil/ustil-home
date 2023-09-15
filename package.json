@@ -6,6 +6,7 @@
     "preview": "vitepress preview docs"
   },
   "devDependencies": {
+    "vercel": "^32.2.3",
     "vitepress": "^1.0.0-rc.13"
   }
 }
