@@ -7,7 +7,11 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/images/logo.webp' }]],
   themeConfig: {
     logo: '/images/logo.webp',
-    nav: [{ text: '友情链接', link: '/friends' }],
+    nav: [
+      { text: '课程', link: '/courses/', activeMatch: '/courses/' },
+      { text: '公告', link: '/announcements/', activeMatch: '/announcements/' },
+      { text: '友情链接', link: '/friends' },
+    ],
     outline: {
       label: '本页面',
     },

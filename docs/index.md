@@ -9,13 +9,16 @@ hero:
   image:
     src: /images/logo.webp
   actions:
+    - text: 开始学习
+      link: /courses/
+      theme: brand
     - text: 了解更多
       link: /about/
-      theme: brand
-
+      theme: alt
     - text: 查看公告
       link: /announcements/
       theme: alt
+
 
 features:
   - title: 项目丰富
