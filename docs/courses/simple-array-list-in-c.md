@@ -153,7 +153,7 @@ void bar() {
 
 因此，在 `main` 函数中，`return` 与 `exit` 基本等价；
 
-### EXIT_SUCCESS 和 EXIT_FAILURE 是什么
+### `EXIT_SUCCESS` 和 `EXIT_FAILURE` 是什么
 
 他们是定义在 `stdlib.h` 中的两个宏，`EXIT_SUCCESS` 通常为 0，`EXIT_FAILURE` 通常为非 0。
 
